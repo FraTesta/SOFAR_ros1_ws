@@ -1,0 +1,4 @@
+follow the tutorial of the following link, but using the new crystal version of the second link
+https://index.ros.org/doc/ros2/Installation/Crystal/Linux-Install-Binary/
+https://github.com/ros2/ros2/releases/tag/release-crystal-20190820
+then copy and paste the packages contained in the zip src, in order to install gazebo_ros_packages on ROS2 crystal
